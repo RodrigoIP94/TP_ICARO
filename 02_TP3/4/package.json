@@ -1,0 +1,14 @@
+{
+  "name": "4",
+  "version": "1.0.0",
+  "description": "TP",
+  "main": "4.js",
+  "scripts": {
+    "start": "node 4.js"
+  },
+  "author": "Rodriguito",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

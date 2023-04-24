@@ -1,0 +1,14 @@
+{
+  "name": "3",
+  "version": "1.0.0",
+  "description": "Ej 3",
+  "main": "3.js",
+  "scripts": {
+    "start": "node 3.js"
+  },
+  "author": "Rodriguito",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

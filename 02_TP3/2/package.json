@@ -1,0 +1,16 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "TP3 - Ej 2",
+  "main": "2.js",
+  "scripts": {
+    "start": "node 2.js"
+  },
+  "author": "Rodrigo",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
